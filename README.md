@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello world, I'm Fernando 👋
 
+### About
+- 💻 I like to get things done.
+- 🎓 I like them done right.
+
+### Contact
+- 📫 Email: fnovoas@unal.edu.co
 <!--
 **fnovoas/fnovoas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
